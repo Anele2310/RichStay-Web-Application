@@ -1,2 +1,2 @@
-# RichStay-Web-Application
-Richfield Group Project
+THE rental_portal.sql FILE IS A BACKUP FOR THE ENTIRE DATABASE IN XAMPP, EXPORTED FROM XAMPP
+DO NOT PASTE INTO c:/xampp/htdocs
